@@ -1,0 +1,349 @@
+{
+  "turkish_historical_events": {
+    "01-01": [
+      {
+        "year": 1923,
+        "title": "Türkiye Büyük Millet Meclisi'nin yeni yıl mesajı",
+        "description": "TBMM'nin ilk yeni yıl mesajı yayınlandı",
+        "category": "cumhuriyet",
+        "importance": "medium",
+        "hashtags": ["#YeniYıl", "#TBMM", "#TürkTarihi"]
+      }
+    ],
+    "01-02": [
+      {
+        "year": 1919,
+        "title": "Milli Mücadele'nin ilk adımları",
+        "description": "İşgal kuvvetlerine karşı ilk organizasyonlar",
+        "category": "milli_mucadele",
+        "importance": "high",
+        "hashtags": ["#MilliMücadele", "#Kurtuluş"]
+      }
+    ],
+    "01-10": [
+      {
+        "year": 1921,
+        "title": "İnönü Zaferi",
+        "description": "Birinci İnönü Muharebesi'nde Yunan kuvvetleri durduruldu",
+        "category": "milli_mucadele",
+        "importance": "very_high",
+        "hashtags": ["#İnönüZaferi", "#İsmetİnönü", "#MilliMücadele"]
+      }
+    ],
+    "01-20": [
+      {
+        "year": 1921,
+        "title": "Teşkilat-ı Esasiye Kanunu",
+        "description": "İlk Anayasa kabul edildi",
+        "category": "cumhuriyet",
+        "importance": "very_high",
+        "hashtags": ["#İlkAnayasa", "#TeşkilatıEsasiye", "#TBMM"]
+      }
+    ],
+    "02-17": [
+      {
+        "year": 1926,
+        "title": "Türk Medeni Kanunu'nun kabulü",
+        "description": "Kadın-erkek eşitliğini sağlayan Medeni Kanun kabul edildi",
+        "category": "cumhuriyet",
+        "importance": "very_high",
+        "hashtags": ["#MedeniKanun", "#KadınHakları", "#Modernleşme"]
+      }
+    ],
+    "03-03": [
+      {
+        "year": 1924,
+        "title": "Halifeliğin kaldırılması",
+        "description": "Halifelik makamı kaldırıldı, Tevhid-i Tedrisat Kanunu kabul edildi",
+        "category": "cumhuriyet",
+        "importance": "very_high",
+        "hashtags": ["#Laiklik", "#TevhidiTedrisat", "#ÇağdaşTürkiye"]
+      }
+    ],
+    "03-12": [
+      {
+        "year": 1921,
+        "title": "İstiklal Marşı'nın kabulü",
+        "description": "Mehmet Akif Ersoy'un yazdığı İstiklal Marşı milli marşımız oldu",
+        "category": "milli_mucadele",
+        "importance": "very_high",
+        "hashtags": ["#İstiklalMarşı", "#MehmetAkifErsoy", "#MilliMarş"]
+      }
+    ],
+    "03-16": [
+      {
+        "year": 1920,
+        "title": "İstanbul'un işgali",
+        "description": "İtilaf Devletleri İstanbul'u resmen işgal etti",
+        "category": "milli_mucadele",
+        "importance": "high",
+        "hashtags": ["#İstanbulunİşgali", "#MilliMücadele", "#16Mart"]
+      }
+    ],
+    "03-18": [
+      {
+        "year": 1915,
+        "title": "Çanakkale Deniz Zaferi",
+        "description": "Çanakkale Boğazı'nda İtilaf donanması püskürtüldü",
+        "category": "osmanli",
+        "importance": "very_high",
+        "hashtags": ["#ÇanakkaleZaferi", "#18Mart", "#ÇanakkaleGeçilmez"],
+        "is_national_holiday": true
+      }
+    ],
+    "04-23": [
+      {
+        "year": 1920,
+        "title": "TBMM'nin açılışı",
+        "description": "Türkiye Büyük Millet Meclisi resmen açıldı",
+        "category": "cumhuriyet",
+        "importance": "very_high",
+        "hashtags": ["#23Nisan", "#TBMM", "#UlusalEgemenlik"],
+        "is_national_holiday": true
+      }
+    ],
+    "05-01": [
+      {
+        "year": 1923,
+        "title": "İşçi Bayramı",
+        "description": "Emek ve Dayanışma Günü",
+        "category": "cumhuriyet",
+        "importance": "high",
+        "hashtags": ["#1Mayıs", "#EmekBayramı", "#İşçiBayramı"],
+        "is_national_holiday": true
+      }
+    ],
+    "05-19": [
+      {
+        "year": 1919,
+        "title": "Atatürk'ün Samsun'a çıkışı",
+        "description": "Mustafa Kemal Atatürk Milli Mücadele'yi başlatmak için Samsun'a çıktı",
+        "category": "milli_mucadele",
+        "importance": "very_high",
+        "hashtags": ["#19Mayıs", "#Atatürk", "#Samsun", "#GençlikBayramı"],
+        "is_national_holiday": true
+      }
+    ],
+    "05-27": [
+      {
+        "year": 1960,
+        "title": "27 Mayıs Darbesi",
+        "description": "Türkiye'nin ilk askeri darbesi gerçekleşti",
+        "category": "cumhuriyet",
+        "importance": "high",
+        "hashtags": ["#27Mayıs", "#TürkSiyasiTarihi"]
+      }
+    ],
+    "05-29": [
+      {
+        "year": 1453,
+        "title": "İstanbul'un fethi",
+        "description": "Fatih Sultan Mehmet İstanbul'u fethetti",
+        "category": "osmanli",
+        "importance": "very_high",
+        "hashtags": ["#İstanbulunFethi", "#FatihSultanMehmet", "#Osmanlı"],
+        "is_major_event": true
+      }
+    ],
+    "06-19": [
+      {
+        "year": 1919,
+        "title": "Amasya Genelgesi",
+        "description": "Milli Mücadele'nin manifestosu yayınlandı",
+        "category": "milli_mucadele",
+        "importance": "very_high",
+        "hashtags": ["#AmasyaGenelgesi", "#MilliMücadele", "#Bağımsızlık"]
+      }
+    ],
+    "07-15": [
+      {
+        "year": 2016,
+        "title": "15 Temmuz Demokrasi ve Milli Birlik Günü",
+        "description": "Hain darbe girişimi milletin direnişiyle püskürtüldü",
+        "category": "cumhuriyet",
+        "importance": "very_high",
+        "hashtags": ["#15Temmuz", "#DemokrasiZaferi", "#MilliBirlik"],
+        "is_national_holiday": true
+      }
+    ],
+    "07-20": [
+      {
+        "year": 1974,
+        "title": "Kıbrıs Barış Harekatı",
+        "description": "Kıbrıs'taki soydaşlarımızı korumak için harekat başlatıldı",
+        "category": "cumhuriyet",
+        "importance": "very_high",
+        "hashtags": ["#KıbrısBarışHarekatı", "#20Temmuz", "#KKTC"]
+      }
+    ],
+    "07-24": [
+      {
+        "year": 1923,
+        "title": "Lozan Barış Antlaşması",
+        "description": "Türkiye'nin bağımsızlığı uluslararası alanda tanındı",
+        "category": "milli_mucadele",
+        "importance": "very_high",
+        "hashtags": ["#LozanZaferi", "#24Temmuz", "#Bağımsızlık"]
+      }
+    ],
+    "08-26": [
+      {
+        "year": 1071,
+        "title": "Malazgirt Zaferi",
+        "description": "Sultan Alparslan Bizans ordusunu yendi, Anadolu kapıları açıldı",
+        "category": "selcuklu",
+        "importance": "very_high",
+        "hashtags": ["#MalazgirtZaferi", "#SultanAlparslan", "#Selçuklu"]
+      }
+    ],
+    "08-30": [
+      {
+        "year": 1922,
+        "title": "Zafer Bayramı - Büyük Taarruz",
+        "description": "Türk ordusu Dumlupınar'da kesin zaferi kazandı",
+        "category": "milli_mucadele",
+        "importance": "very_high",
+        "hashtags": ["#ZaferBayramı", "#BüyükTaarruz", "#30Ağustos"],
+        "is_national_holiday": true
+      }
+    ],
+    "09-09": [
+      {
+        "year": 1922,
+        "title": "İzmir'in kurtuluşu",
+        "description": "Türk orduları İzmir'e girdi, işgal sona erdi",
+        "category": "milli_mucadele",
+        "importance": "very_high",
+        "hashtags": ["#İzmirinKurtuluşu", "#9Eylül"]
+      }
+    ],
+    "09-12": [
+      {
+        "year": 1980,
+        "title": "12 Eylül Askeri Darbesi",
+        "description": "Kenan Evren liderliğinde askeri darbe yapıldı",
+        "category": "cumhuriyet",
+        "importance": "high",
+        "hashtags": ["#12Eylül", "#TürkSiyasiTarihi"]
+      }
+    ],
+    "09-26": [
+      {
+        "year": 1923,
+        "title": "Türkiye İş Bankası'nın kuruluşu",
+        "description": "İlk milli bankamız kuruldu",
+        "category": "cumhuriyet",
+        "importance": "high",
+        "hashtags": ["#İşBankası", "#MilliEkonomi", "#Atatürk"]
+      }
+    ],
+    "10-06": [
+      {
+        "year": 1923,
+        "title": "İstanbul'un kurtuluşu",
+        "description": "İstanbul işgalden kurtuldu",
+        "category": "milli_mucadele",
+        "importance": "very_high",
+        "hashtags": ["#İstanbulunKurtuluşu", "#6Ekim", "#Kurtuluş"]
+      }
+    ],
+    "10-13": [
+      {
+        "year": 1923,
+        "title": "Ankara'nın başkent oluşu",
+        "description": "Ankara resmen Türkiye'nin başkenti oldu",
+        "category": "cumhuriyet",
+        "importance": "very_high",
+        "hashtags": ["#AnkaraBaşkent", "#13Ekim", "#YeniTürkiye"]
+      }
+    ],
+    "10-29": [
+      {
+        "year": 1923,
+        "title": "Cumhuriyet'in ilanı",
+        "description": "Mustafa Kemal Atatürk ilk Cumhurbaşkanı seçildi",
+        "category": "cumhuriyet",
+        "importance": "very_high",
+        "hashtags": ["#CumhuriyetBayramı", "#29Ekim", "#Atatürk"],
+        "is_national_holiday": true
+      }
+    ],
+    "11-01": [
+      {
+        "year": 1922,
+        "title": "Saltanatın kaldırılması",
+        "description": "Osmanlı saltanatı resmen sona erdi",
+        "category": "cumhuriyet",
+        "importance": "very_high",
+        "hashtags": ["#SaltanatınKaldırılması", "#1Kasım", "#YeniDönem"]
+      }
+    ],
+    "11-10": [
+      {
+        "year": 1938,
+        "title": "Atatürk'ün vefatı",
+        "description": "Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk vefat etti",
+        "category": "cumhuriyet",
+        "importance": "very_high",
+        "hashtags": ["#10Kasım", "#Atatürk", "#EbediÖnder"]
+      }
+    ],
+    "11-24": [
+      {
+        "year": 1934,
+        "title": "Atatürk'e 'Atatürk' soyadı verilmesi",
+        "description": "TBMM tarafından Mustafa Kemal'e Atatürk soyadı verildi",
+        "category": "cumhuriyet",
+        "importance": "high",
+        "hashtags": ["#Atatürk", "#24Kasım", "#TürklerBabası"]
+      }
+    ],
+    "11-25": [
+      {
+        "year": 1925,
+        "title": "Şapka Kanunu",
+        "description": "Kıyafet devriminin önemli adımlarından Şapka Kanunu kabul edildi",
+        "category": "cumhuriyet",
+        "importance": "high",
+        "hashtags": ["#ŞapkaKanunu", "#Modernleşme", "#KıyafetDevrimi"]
+      }
+    ],
+    "12-05": [
+      {
+        "year": 1934,
+        "title": "Kadınlara seçme ve seçilme hakkı",
+        "description": "Türk kadınları seçme ve seçilme hakkını kazandı",
+        "category": "cumhuriyet",
+        "importance": "very_high",
+        "hashtags": ["#KadınHakları", "#5Aralık", "#Eşitlik"]
+      }
+    ]
+  },
+
+  "categories": {
+    "osmanli": {
+      "name": "Osmanlı Dönemi",
+      "color": "#8B0000",
+      "emoji": "🏛️",
+      "period": "1299-1922"
+    },
+    "selcuklu": {
+      "name": "Selçuklu Dönemi",
+      "color": "#FFD700",
+      "emoji": "⚔️",
+      "period": "1040-1308"
+    },
+    "milli_mucadele": {
+      "name": "Milli Mücadele",
+      "color": "#FF0000",
+      "emoji": "🇹🇷",
+      "period": "1919-1923"
+    },
+    "cumhuriyet": {
+      "name": "Cumhuriyet Dönemi",
+      "color": "#FF0000",
+      "emoji": "🇹🇷",
+      "period": "1923-günümüz"
+    }
+  }
+}
